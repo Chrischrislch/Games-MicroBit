@@ -1,4 +1,4 @@
-# SnakeGame-MicroBit
+# Games-MicroBit
 
 -[Shooting game](https://github.com/Chrischrislch/SnakeGame-MicroBit/blob/main/microbit-ShootingGame.hex)
 <br>
